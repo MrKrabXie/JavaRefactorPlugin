@@ -1,5 +1,5 @@
 # JavaRefactorPlugin 插件描述
-
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## 一、插件概述
 JavaRefactorPlugin 是一款专为 IntelliJ IDEA 打造的强大插件，旨在助力开发者高效地对 Java 代码进行重构。它提供了一系列丰富且实用的功能，能够显著提升代码的质量、可维护性和可读性，无论是对于小型项目还是大型企业级应用的代码优化，都具有极高的价值。
 

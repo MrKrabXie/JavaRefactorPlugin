@@ -1,5 +1,5 @@
 # JavaRefactorPlugin Plugin Description
-
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## 一、Plugin Overview
 JavaRefactorPlugin is a powerful plugin designed specifically for IntelliJ IDEA, aiming to assist developers in efficiently refactoring Java code. It provides a rich set of practical functions that can significantly improve code quality, maintainability, and readability. Whether for small projects or large enterprise-level applications, this plugin offers high value for code optimization.
 
